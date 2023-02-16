@@ -2,7 +2,7 @@
 
 ## Projekt 1 ##
 
-*[proj1.py](proj1.py); zadané 15. februára, deadline 1. marca*
+> *[proj1.py](proj1.py); zadané 15. februára, deadline 1. marca*
 
 Stáhněte si soubor isj_proj1_xnovak00.py a místo xnovak00 dejte do názvu svůj login.
 
@@ -12,7 +12,7 @@ Dopište definici regulárního pat (místo ...), aby odpovídal buď jménu, p�
 Oddělovačem je čárka, za kterou následuje alespoň jeden bílý znak.
 
 Nic jiného v kódu neměňte (i kdyby se vám nelíbil nedostatek komentářů apod.).
-Cvičné hodnocení můžete vyzkoušet v systému [http://isj.fit.vutbr.cz/upload], ale pro získání bodů za projekt musíte výsledný skript (se správným názvem) odevzdat prostřednictví [tohoto úkolu v MOODLE](https://moodle.vut.cz/mod/assign/view.php?id=304668).
+Cvičné hodnocení můžete vyzkoušet v systému [http://isj.fit.vutbr.cz/upload](http://isj.fit.vutbr.cz/upload), ale pro získání bodů za projekt musíte výsledný skript (se správným názvem) odevzdat prostřednictví [tohoto úkolu v MOODLE](https://moodle.vut.cz/mod/assign/view.php?id=304668).
 
 Myšlenka 2. příkladu je taková, že si máte vyzkoušet *"best trick ever"* z přednášky / odkazovaného webu (je to prostě obdoba "Tarzan").
 

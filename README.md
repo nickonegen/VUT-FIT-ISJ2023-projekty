@@ -12,7 +12,7 @@ Zadania (hlavné projekty): [ZADANI_merged.md](ZADANI_merged.md), see [MOODLE](h
 
 ### Projekty ###
 
-* **Projekt 1** — ?? / ??
+* **[Projekt 1](ZADANI_merged.md#projekt-1)** — ?? / ??
   * [X] ⏰ 2023-02-15 **Zadanie**
   * [ ] ⏰ 2023-03-01 **Deadline**
 
