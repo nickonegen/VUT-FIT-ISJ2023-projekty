@@ -1,7 +1,18 @@
-# minitask 2
-# change the last du to DU
+# ISJ mini-úloha 2
+# @author Onegen Something <xonege99@vutbr.cz>
+
+# Téma: Regulárne výrazy
+# Zadanie: Nahraďte posledné 'du' na 'DU'
+# Očekávaný výstup:
+#                   du du DU
+#                   du po leDU
+#                   dopředu DU
+#                   i dozadu DU
+#                   dudu DUpl
+#                   Rammstein DU hast
+
 import re
-pattern = re.compile(r'du')
+pattern = re.compile(r'du(?!.*du)')
 text = ['du du du',
         'du po ledu',
         'dopĹedu du',
@@ -9,14 +20,5 @@ text = ['du du du',
         'dudu dupl',
         'Rammstein du hast']
 
-# expected output:
-# du du DU
-# du po leDU
-# dopředu DU
-# i dozadu DU
-# dudu DUpl
-# Rammstein DU hast
-
 for row in text:
-  print(re.sub(pattern, 'DU', row))
-
+    print(re.sub(pattern, 'DU', row))
