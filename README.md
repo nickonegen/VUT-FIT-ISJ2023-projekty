@@ -18,9 +18,14 @@ Zadania (hlavné projekty): [ZADANI_merged.md](ZADANI_merged.md), see [MOODLE](h
 
 ### Mini-úlohy ###
 
-* **[Mini-úloha 1](mini-ulohy/minitask1.py)** — ?? / ??
-  * [X] ⏰ 2023-02-15 **Zadanie**
-  * [X] ⏰ 2023-02-16 **Deadline**
+* **[Mini-úloha 1](mini-ulohy/minitask1.py)** ✅
+* **[Mini-úloha 2](mini-ulohy/minitask2.py)** ✅
+* **[Mini-úloha 3](mini-ulohy/minitask3.py)** ❌
+
+#### Môže sa hodiť ####
+
+* [regex101](https://regex101.com/)
+* ["Best" RegEx trick](https://www.rexegg.com/regex-best-trick.html#notarzan)
 
 ----------------------------------------------
 
