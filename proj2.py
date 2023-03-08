@@ -8,9 +8,9 @@ def she_says_he_says(she_says):
     'umiram'
     """
 
-    phonetic_she_says = she_says                             # vase reseni
-    compact = phonetic_she_says                              # vase reseni
-    he_says = compact                                        # vase reseni
+    phonetic_she_says = she_says.replace('y', 'i')
+    compact = phonetic_she_says.replace(' ', '')
+    he_says = compact[::-1]
     return he_says
 
 
@@ -29,16 +29,16 @@ def solfege(title_hymn):
     """
 
     # the input string partitioned to the title (if given) and the actual hymn
-    possible_title, sep, hymn = title_hymn, '',''                # vase reseni
+    possible_title, sep, hymn = title_hymn.rpartition(': ')
 
     # the hymn as a list of strings separated by ' '
-    hymn_list = ''                                               # vase reseni
+    hymn_list = hymn.split()
     
     # skipping always two strings, and ending 3 strings from the end
-    skip2 = ''                                                   # vase reseni
+    skip2 = hymn_list[:-3:3]
 
     # the skip2 list as a string, ', ' as a separator
-    skip2_str = ''                                               # vase reseni
+    skip2_str = ', '.join(skip2)
 
     return skip2_str
 
