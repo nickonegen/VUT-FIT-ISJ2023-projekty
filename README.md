@@ -6,24 +6,22 @@
 
 Celkové hodnotenie: ?? / ??
 
-Zadania (hlavné projekty): [ZADANI_merged.md](ZADANI_merged.md), see [MOODLE](https://moodle.vut.cz/course/view.php?id=231023#section-3)
-
 ----------------------------------------------
 
 ### Projekty ###
 
-* **[Projekt 1](ZADANI_merged.md#projekt-1)** — ?? / ??
+* **[Projekt 1](proj1.py)** — ?? / ??
   * [X] ⏰ 2023-02-15 **Zadanie**
   * [X] ⏰ 2023-03-01 **Deadline**
-* **[Projekt 2](ZADANI_merged.md#projekt-2)** — ?? / ??
+* **[Projekt 2](proj2.py)** — ?? / ??
   * [X] ⏰ 2023-03-08 **Zadanie**
   * [ ] ⏰ 2023-03-15 **Deadline**
 
 ### Mini-úlohy ###
 
-* **[Mini-úloha 1](mini-ulohy/minitask1.py)** ✅
-* **[Mini-úloha 2](mini-ulohy/minitask2.py)** ✅
-* **[Mini-úloha 3](mini-ulohy/minitask3.py)** ✅
+* [X] **[Mini-úloha 1](mini-ulohy/minitask1.py)**
+* [X] **[Mini-úloha 2](mini-ulohy/minitask2.py)**
+* [X] **[Mini-úloha 3](mini-ulohy/minitask3.py)**
 
 #### Môže sa hodiť ####
 
