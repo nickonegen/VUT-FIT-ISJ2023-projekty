@@ -41,9 +41,3 @@ def solfege(title_hymn):
     skip2_str = ', '.join(skip2)
 
     return skip2_str
-
-
-if __name__ == "__main__":
-    #import doctest
-    #doctest.testmod()
-    pass
