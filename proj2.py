@@ -33,7 +33,7 @@ def solfege(title_hymn):
 
     # the hymn as a list of strings separated by ' '
     hymn_list = hymn.split()
-    
+
     # skipping always two strings, and ending 3 strings from the end
     skip2 = hymn_list[:-3:3]
 
