@@ -14,13 +14,16 @@ Zadania (hlavné projekty): [ZADANI_merged.md](ZADANI_merged.md), see [MOODLE](h
 
 * **[Projekt 1](ZADANI_merged.md#projekt-1)** — ?? / ??
   * [X] ⏰ 2023-02-15 **Zadanie**
-  * [ ] ⏰ 2023-03-01 **Deadline**
+  * [X] ⏰ 2023-03-01 **Deadline**
+* **[Projekt 2](ZADANI_merged.md#projekt-2)** — ?? / ??
+  * [X] ⏰ 2023-03-08 **Zadanie**
+  * [ ] ⏰ 2023-03-15 **Deadline**
 
 ### Mini-úlohy ###
 
 * **[Mini-úloha 1](mini-ulohy/minitask1.py)** ✅
 * **[Mini-úloha 2](mini-ulohy/minitask2.py)** ✅
-* **[Mini-úloha 3](mini-ulohy/minitask3.py)** ❌
+* **[Mini-úloha 3](mini-ulohy/minitask3.py)** ✅
 
 #### Môže sa hodiť ####
 
