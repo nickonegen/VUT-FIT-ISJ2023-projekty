@@ -10,23 +10,26 @@ Celkové hodnotenie: ?? / ??
 
 ### Projekty ###
 
-* **[Projekt 1](proj1.py)** — ?? / ??
-  * [X] ⏰ 2023-02-15 **Zadanie**
-  * [X] ⏰ 2023-03-01 **Deadline**
-* **[Projekt 2](proj2.py)** — ?? / ??
-  * [X] ⏰ 2023-03-08 **Zadanie**
-  * [X] ⏰ 2023-03-15 **Deadline**
+- **[Projekt 1](proj1.py)** — ?? / ??
+  - [X] ⏰ 2023-02-15 **Zadanie**
+  - [X] ⏰ 2023-03-01 **Deadline**
+- **[Projekt 2](proj2.py)** — ?? / ??
+  - [X] ⏰ 2023-03-08 **Zadanie**
+  - [X] ⏰ 2023-03-15 **Deadline**
+- **[Projekt 3](proj3.py)** — ?? / ??
+  - [X] ⏰ 2023-03-10 **Zadanie**
+  - [ ] ⏰ 2023-03-16 **Deadline**
 
 ### Mini-úlohy ###
 
-* [X] **[Mini-úloha 1](mini-ulohy/minitask1.py)**
-* [X] **[Mini-úloha 2](mini-ulohy/minitask2.py)**
-* [X] **[Mini-úloha 3](mini-ulohy/minitask3.py)**
+- [X] **[Mini-úloha 1](mini-ulohy/minitask1.py)**
+- [X] **[Mini-úloha 2](mini-ulohy/minitask2.py)**
+- [X] **[Mini-úloha 3](mini-ulohy/minitask3.py)**
 
 #### Môže sa hodiť ####
 
-* [regex101](https://regex101.com/)
-* ["Best" RegEx trick](https://www.rexegg.com/regex-best-trick.html#notarzan)
+- [regex101](https://regex101.com/)
+- [Best RegEx trick](https://www.rexegg.com/regex-best-trick.html#notarzan)
 
 ----------------------------------------------
 
