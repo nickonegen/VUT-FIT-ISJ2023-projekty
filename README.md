@@ -33,4 +33,4 @@ Celkové hodnotenie: ?? / ??
 
 ----------------------------------------------
 
-<div align="center"><a href="https://wakatime.com"><img alt="wakatime" src="https://wakatime.com/badge/user/dd421270-8f1c-43aa-aa5b-ec52a2a18852/project/e67104b6-a9e6-4f2c-8c94-56d6345777dd.svg" /></a></div>
+<div align="center"><a href="https://wakatime.com"><img alt="wakatime" src="https://wakatime.com/badge/user/dd421270-8f1c-43aa-aa5b-ec52a2a18852/project/e67104b6-a9e6-4f2c-8c94-56d6345777dd.svg?style=for-the-badge" /></a></div>
