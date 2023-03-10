@@ -15,7 +15,7 @@ import re
 pattern = re.compile(r'du(?!.*du)')
 text = ['du du du',
         'du po ledu',
-        'dopĹedu du',
+        'dopředu du',
         'i dozadu du',
         'dudu dupl',
         'Rammstein du hast']
