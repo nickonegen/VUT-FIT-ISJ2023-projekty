@@ -18,7 +18,7 @@ Celkové hodnotenie: ?? / ??
   - [X] ⏰ 2023-03-15 **Deadline**
 - **[Projekt 3](proj3.py)** — ?? / ??
   - [X] ⏰ 2023-03-10 **Zadanie**
-  - [ ] ⏰ 2023-03-16 **Deadline**
+  - [X] ⏰ 2023-03-23 **Deadline**
 
 ### Mini-úlohy ###
 
