@@ -21,6 +21,20 @@ def first_odd_or_even(numbers):
     0
     """
 
+    even_count, odd_count = 0, 0
+    even_first, odd_first = None, None
+
+    for number in numbers:
+        if number % 2 == 0:
+            even_count += 1
+            even_first = number if even_first is None else even_first
+        else:
+            odd_count += 1
+            odd_first = number if odd_first is None else odd_first
+
+    return 0 if even_count == odd_count or even_count == 0 or odd_count == 0 \
+        else odd_first if odd_count < even_count else even_first
+
 
 # ukol za 3 body
 def to_pilot_alpha(word):
@@ -36,7 +50,14 @@ def to_pilot_alpha(word):
         'Uniform', 'Victor', 'Whiskey', 'Xray', 'Yankee', 'Zulu']
 
     pilot_alpha_list = []
-     
+
+    while len(word) > 0:
+        char = word[0].upper()
+        alpha_code = [code for code in pilot_alpha if code.startswith(char)]
+        if alpha_code:
+            pilot_alpha_list.append(alpha_code[0])
+        word = word[1:]
+
     return pilot_alpha_list
 
 
