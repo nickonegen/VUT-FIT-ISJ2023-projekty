@@ -26,11 +26,17 @@ def match_permutations_substrings(string, words):
 
     """
 
-
     # permutations as a set
-    perms = all_permutations_substrings(string)
+    permuts = all_permutations_substrings(string)
+    
+    hits = set()
+    for word in words:
+        for permut in permuts:
+            if word in permut:
+                hits.add(word)
+                break
 
-    return                                        # your solution
+    return hits                            # your solution
 
 
 # max 1 point
@@ -47,8 +53,10 @@ def uniq_srt(it):
     ['a', 'b', 'd', 'k', 'r']
 
     """
-
-    return                                        # your solution
+    
+    uniq_list = list(set(it))
+    uniq_list.sort()
+    return uniq_list                              # your solution
 
 
 # max 2 points
@@ -67,7 +75,14 @@ def uniq_orig_order(it):
 
     """
 
-    return                                        # your solution
+    uniq_dict = {}
+    uniq_list = []
+    for elem in it:
+        if elem not in uniq_dict:
+            uniq_dict[elem] = True
+            uniq_list.append(elem)
+
+    return uniq_list                              # your solution
 
 
 if __name__ == "__main__":
