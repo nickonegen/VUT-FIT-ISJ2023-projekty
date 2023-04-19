@@ -107,9 +107,8 @@ class Polynomial:
         if x2 is None:
             # One arg provided -- evaluate all at x1
             return sum(c * x1**i for i, c in enumerate(self.coefs))
-        else:
-            # Two args provided -- evaluate difference of x1 and x2
-            return self.at_value(x2) - self.at_value(x1)
+        # Two args provided -- evaluate difference of x1 and x2
+        return self.at_value(x2) - self.at_value(x1)
 
 
 def test():
