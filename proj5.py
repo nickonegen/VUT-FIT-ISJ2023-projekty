@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+
 def gen_quiz(qpool, *indexes, altcodes="ABCDEF", quiz=None):
     """
     >>> test_qpool1 = [('Question1', ['Answer1', 'Answer2', 'Answer3', 'Answer4']), ('Question2', ['Answer1', 'Answer2', 'Answer3']), ('Question3', ['Answer1', 'Answer2', 'Answer3', 'Answer4']), ('Question4', ['Answer1', 'Answer2'])]

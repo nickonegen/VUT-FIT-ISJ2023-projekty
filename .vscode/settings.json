@@ -9,5 +9,6 @@
     "proj6",
     "proj7",
     "proj8"
-  ]
+  ],
+  "deepscan.enable": true
 }
