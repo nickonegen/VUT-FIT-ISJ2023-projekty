@@ -27,7 +27,10 @@ Celkové hodnotenie: ?? / 40
   - [X] ⏰ 2023-04-12 **Deadline**
 - **[Projekt 6](proj6.py)** — ? / 5
   - [X] ⏰ 2023-04-17 **Zadanie**
-  - [ ] ⏰ 2023-04-24 **Deadline**
+  - [X] ⏰ 2023-04-24 **Deadline**
+- **[Projekt 7](proj7.py)** — ? / 5
+  - [X] ⏰ 2023-04-26 **Zadanie**
+  - [ ] ⏰ 2023-05-03 **Deadline**
 
 ### Mini-úlohy ###
 
@@ -37,6 +40,7 @@ Celkové hodnotenie: ?? / 40
 - [X] **[Mini-úloha 4](mini-ulohy/minitask4.py)**
 - [X] **[Mini-úloha 5](mini-ulohy/minitask5.py)**
 - [X] **[Mini-úloha 6](mini-ulohy/minitask6.py)**
+- [X] **[Mini-úloha 7](mini-ulohy/minitask7.py)**
 
 ----------------------------------------------
 
