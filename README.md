@@ -25,12 +25,12 @@ Celkové hodnotenie: ?? / 40
 - **[Projekt 5](proj5.py)** — 5 / 5
   - [X] ⏰ 2023-04-05 **Zadanie**
   - [X] ⏰ 2023-04-12 **Deadline**
-- **[Projekt 6](proj6.py)** — ? / 5
+- **[Projekt 6](proj6.py)** — 5 / 5
   - [X] ⏰ 2023-04-17 **Zadanie**
   - [X] ⏰ 2023-04-24 **Deadline**
 - **[Projekt 7](proj7.py)** — ? / 5
   - [X] ⏰ 2023-04-26 **Zadanie**
-  - [ ] ⏰ 2023-05-03 **Deadline**
+  - [X] ⏰ 2023-05-03 **Deadline**
 
 ### Mini-úlohy ###
 
