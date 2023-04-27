@@ -1,3 +1,4 @@
+# minitask 6
 class Point:
     def __init__(self, l=0, r=0):
         self.l = l

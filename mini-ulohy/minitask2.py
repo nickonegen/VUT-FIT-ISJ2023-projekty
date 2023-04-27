@@ -1,11 +1,15 @@
+# minitask 2
 import re
-pattern = re.compile(r'du(?!.*du)')
-text = ['du du du',
-        'du po ledu',
-        'dopředu du',
-        'i dozadu du',
-        'dudu dupl',
-        'Rammstein du hast']
+
+pattern = re.compile(r"du(?!.*du)")
+text = [
+    "du du du",
+    "du po ledu",
+    "dopředu du",
+    "i dozadu du",
+    "dudu dupl",
+    "Rammstein du hast",
+]
 # Očekávaný výstup:
 #                   du du DU
 #                   du po leDU
@@ -15,4 +19,4 @@ text = ['du du du',
 #                   Rammstein DU hast
 
 for row in text:
-    print(re.sub(pattern, 'DU', row))
+    print(re.sub(pattern, "DU", row))
