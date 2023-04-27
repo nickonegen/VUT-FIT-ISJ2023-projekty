@@ -2,6 +2,14 @@
 import asyncio
 import time
 
+# Change the code in the main function so that the tasks run concurrently
+# (stand water, wash cups, boil water), so that the output is something like:
+#   boiling kettle starting
+#   cleaning cups starting
+#   cleaning cups is done
+#   boiling kettle is done
+#   Executed in 3.02 seconds.
+
 
 async def perform_task(duration, task_name):
     print(task_name, "starting")

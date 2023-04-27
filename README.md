@@ -34,13 +34,13 @@ Celkové hodnotenie: ?? / 40
 
 ### Mini-úlohy ###
 
-- [X] **[Mini-úloha 1](mini-ulohy/minitask1.py)**
-- [X] **[Mini-úloha 2](mini-ulohy/minitask2.py)**
-- [X] **[Mini-úloha 3](mini-ulohy/minitask3.py)**
-- [X] **[Mini-úloha 4](mini-ulohy/minitask4.py)**
-- [X] **[Mini-úloha 5](mini-ulohy/minitask5.py)**
-- [X] **[Mini-úloha 6](mini-ulohy/minitask6.py)**
-- [X] **[Mini-úloha 7](mini-ulohy/minitask7.py)**
+- [X] **[Mini-úloha 1](minitasks/minitask1.py)**
+- [X] **[Mini-úloha 2](minitasks/minitask2.py)**
+- [X] **[Mini-úloha 3](minitasks/minitask3.py)**
+- [X] **[Mini-úloha 4](minitasks/minitask4.py)**
+- [X] **[Mini-úloha 5](minitasks/minitask5.py)**
+- [X] **[Mini-úloha 6](minitasks/minitask6.py)**
+- [X] **[Mini-úloha 7](minitasks/minitask7.py)**
 
 ----------------------------------------------
 
